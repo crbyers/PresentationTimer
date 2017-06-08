@@ -1,4 +1,6 @@
-Design Document for Android and IOS
+Design Document for Android and IOS 
+vesion 1.0 can release more options in future versions, as well as stop other apps from vibrating while app is in use
+
 Overview:
 Create a timer app that can be used by students. The app will have the options to select the time of presentation, 
 minute and half minute options, max TBD. 
@@ -9,6 +11,32 @@ number of times for the amount of minutes remaining(under 10 minutes). Above 10 
 Options: 
 one vibrate for 30 second intervals under a certain time(user choice).
 
-Functionallity:
-
 Layout:
+Before Start:
+Enter time top of page
+Options to select middle of page
+Start button bottum of page.
+
+After Start:
+Countdown clock majority of the screen.
+Stop Pause bottum of screen
+
+Example:
+
+Enter Time: (5:00) - can be changed
+
+Check the options you would like 
+nothing checked default options apply
+Default: 
+One vibrate every minute that passes when timer is above 10:00
+Under 10:00 phone vibrates amount of time equal to minutes remaining every minute
+
+Options:
+30 second interval two virbates under (2:00) - can be changed
+
+START
+          
+
+
+
+
