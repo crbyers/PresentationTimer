@@ -1,4 +1,11 @@
 Design Document for Android and IOS
+Overview:
+Create a timer app that can be used by students. The app will have the options to select the time of presentation, 
+minute and half minute options, max TBD. 
+Defualt: Alert settings to be configured by every minute phone will vibrate
+number of times for the amount of minutes remaining.
+Options: one vibrate for 30 second intervals under a certain time(user choice)
+option for countdown for intervals under 30 seconds, 10 or 5.
 
 Functionallity:
 
